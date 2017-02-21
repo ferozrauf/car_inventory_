@@ -1,895 +1,3 @@
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=0
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=16
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=32
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=48
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=64
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=80
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=96
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=112
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=128
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=144
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=160
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=176
-http://www.automaxxcalgary.com/used-inventory/index.htm?start=192
-TypeError: Cannot read property 'children' of undefined
-    at Request._callback (C:\Users\Feroz\Desktop\car_inventory_scrape\car_scrape.js:21:17)
-    at Request.self.callback (C:\Users\Feroz\Desktop\car_inventory_scrape\node_modules\request\request.js:186:22)
-    at emitTwo (events.js:106:13)
-    at Request.emit (events.js:191:7)
-    at Request.<anonymous> (C:\Users\Feroz\Desktop\car_inventory_scrape\node_modules\request\request.js:1081:10)
-    at emitOne (events.js:96:13)
-    at Request.emit (events.js:188:7)
-    at IncomingMessage.<anonymous> (C:\Users\Feroz\Desktop\car_inventory_scrape\node_modules\request\request.js:1001:12)
-    at IncomingMessage.g (events.js:292:16)
-    at emitNone (events.js:91:20)
-{ '0': 'SUV',
-  '1': 'All-wheel Drive',
-  '2': '2.0L I-4 cyl',
-  '3': 'Dark Grey',
-  '4': 'Black',
-  '5': '22850',
-  '6': 'AM15756',
-  '7': 'WDCTG4GB9FJ149186',
-  price: 38980 }
-{ '0': 'Convertible',
-  '1': 'Rear-wheel Drive',
-  '2': '5.4L V-8 cyl',
-  '3': 'Silver',
-  '4': 'Grey',
-  '5': '56588',
-  '6': 'AM15566',
-  '7': 'WDBSK74F33F058050',
-  price: 34980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.0L I-4 cyl',
-  '3': 'Blue',
-  '4': 'Charcoal',
-  '5': '29979',
-  '6': 'AM15772',
-  '7': 'JA32U2FUXGU600576',
-  price: 17980 }
-{ '0': 'Sedan',
-  '1': 'AWD',
-  '2': '2.0L I-4 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '153267',
-  '6': 'AM15006A',
-  '7': 'JA3AV66V69U609822',
-  price: 14980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '2.4L I-4 cyl',
-  '3': 'White',
-  '4': 'Black',
-  '5': '50891',
-  '6': 'AM15130',
-  '7': 'JA4AZ2A33FZ600797',
-  price: 24980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.5L I-4 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '51196',
-  '6': 'AM15663',
-  '7': '1N4AL3APXFN861096',
-  price: 18980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.5L I-4 cyl',
-  '3': 'Silver',
-  '4': 'Charcoal',
-  '5': '56953',
-  '6': 'AM15678',
-  '7': '1N4AL3AP7FN374146',
-  price: 18980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.5L I-4 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '69100',
-  '6': 'AM15280A',
-  '7': '1N4AL3AP0EN261363',
-  price: 17980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.5L I-4 cyl',
-  '3': 'Charcoal',
-  '4': 'Charcoal',
-  '5': '45038',
-  '6': 'AM15748',
-  '7': '1N4AL3AP2GN314504',
-  price: 23980 }
-{ '0': 'Sedan',
-  '1': 'FWD',
-  '2': '2.5L I-4 cyl',
-  '3': 'Grey',
-  '4': 'Black',
-  '5': '52800',
-  '6': 'AM15739',
-  '7': '1N4AL3AP3GN314513',
-  price: 23980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.5L I-4 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '18623',
-  '6': 'AM15773',
-  '7': '1N4AL3AP3HN304646',
-  price: 25980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.5L I-4 cyl',
-  '3': 'Red',
-  '4': 'Charcoal',
-  '5': '20701',
-  '6': 'AM15774',
-  '7': '1N4AL3AP0HN304197',
-  price: 25980 }
-{ '0': 'Sedan',
-  '1': 'FWD',
-  '2': '3.5L V-6 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '29192',
-  '6': 'AM15430',
-  '7': '1N4AA6AP3GC423752',
-  price: 34980 }
-{ '0': 'SUV',
-  '1': 'All-wheel Drive',
-  '2': '3.5L V-6 cyl',
-  '3': 'Grey',
-  '4': 'Black',
-  '5': '28099',
-  '6': 'AM15780',
-  '7': '5N1AZ2MHXGN139082',
-  price: 39980 }
-{ '0': 'SUV',
-  '1': 'All-wheel Drive',
-  '2': '3.5L V-6 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '29050',
-  '6': 'AM15781',
-  '7': '5N1AZ2MH9GN138151',
-  price: 39980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '3.5L V-6 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '39876',
-  '6': 'AM15753',
-  '7': '5N1AZ2MH3GN115366',
-  price: 32980 }
-16
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.4L I-4 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '40106',
-  '6': 'AM15771',
-  '7': '5XXGT4L33GG061631',
-  price: 21980 }
-{ '0': 'SUV',
-  '1': 'All-wheel Drive',
-  '2': '2.4L I-4 cyl',
-  '3': 'Black',
-  '4': 'Charcoal',
-  '5': '20244',
-  '6': 'AM15776',
-  '7': '5XYPGDA35HG211047',
-  price: 26980 }
-{ '0': 'SUV',
-  '1': 'All-wheel Drive',
-  '2': '2.4L I-4 cyl',
-  '3': 'Silver',
-  '4': 'Charcoal',
-  '5': '29206',
-  '6': 'AM15777',
-  '7': '5XYPGDA30HG210436',
-  price: 26980 }
-{ '0': 'SUV',
-  '1': 'All-wheel Drive',
-  '2': '2.4L I-4 cyl',
-  '3': 'Black',
-  '4': 'Charcoal',
-  '5': '28960',
-  '6': 'AM15778',
-  '7': '5XYPGDA36HG211185',
-  price: 26980 }
-{ '0': 'SUV',
-  '1': 'All-wheel Drive',
-  '2': '2.4L I-4 cyl',
-  '3': 'Blue',
-  '4': 'Burgundy',
-  '5': '20501',
-  '6': 'AM15779',
-  '7': '5XYPGDA35HG210674',
-  price: 26980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '5.0L V-8 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '40853',
-  '6': 'AM15504',
-  '7': 'SALGV2EF1EA145857',
-  price: 113980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '3.0L V-6 cyl',
-  '3': 'Red',
-  '4': 'Black',
-  '5': '23002',
-  '6': 'K123',
-  '7': 'SALWR2WF5EA375528',
-  price: 66980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '5.0L V-8 cyl',
-  '3': 'Black',
-  '4': 'Brown',
-  '5': '44086',
-  '6': 'K1235',
-  '7': 'SALWR2TF9EA361104',
-  price: 77980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '3.7L V-6 cyl',
-  '3': 'Red',
-  '4': 'Tan',
-  '5': '72100',
-  '6': 'AM15586',
-  '7': '2LMDJ8JKXEBL18078',
-  price: 30980 }
-{ '0': 'Hatchback',
-  '1': 'FWD',
-  '2': '1.5L I-3 cyl',
-  '3': 'Grey',
-  '4': 'Black',
-  '5': '27600',
-  '6': 'AM15480',
-  '7': 'WMWXP5C51G3B14662',
-  price: 24980 }
-{ '0': 'SUV',
-  '1': 'All-wheel Drive',
-  '2': '2.0L I-4 cyl',
-  '3': 'Grey',
-  '4': 'Black',
-  '5': '23943',
-  '6': 'AM15104',
-  '7': 'JM3KE4BEXG0698080',
-  price: 28980 }
-{ '0': 'Sedan',
-  '1': 'FWD',
-  '2': '2.0L I-4 cyl',
-  '3': 'Blue',
-  '4': 'Charcoal',
-  '5': '127000',
-  '6': 'AM15204A',
-  '7': 'JM1BL1VF1B1380255',
-  price: 9980 }
-{ '0': 'Sedan',
-  '1': 'AWD',
-  '2': '2.0L I-4 cyl',
-  '3': 'White',
-  '4': 'Black',
-  '5': '29940',
-  '6': 'AM15692',
-  '7': '55SWF4KB4GU122370',
-  price: 43980 }
-{ '0': 'Sedan',
-  '1': 'All-wheel Drive',
-  '2': '3.5L V-6 cyl',
-  '3': 'White',
-  '4': 'Black',
-  '5': '71143',
-  '6': 'AM15641A',
-  '7': 'WDDGF8AB7DA854498',
-  price: 24980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '3.0L V-6 cyl',
-  '3': 'Black',
-  '4': 'Brown',
-  '5': '96500',
-  '6': 'AMCONS',
-  '7': '4JGDF2EE0DA132655',
-  price: 57980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '3.0L V-6 cyl',
-  '3': '147320',
-  '4': 'CON567',
-  '5': '4JGBF2FE9CA776966',
-  price: 33980 }
-32
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '2.0L I-4 cyl',
-  '3': 'White',
-  '4': 'Black',
-  '5': '34070',
-  '6': 'AM15552',
-  '7': '2FMPK4J9XGBB19482',
-  price: 33980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '3.5L V-6 cyl',
-  '3': 'White',
-  '4': 'Black',
-  '5': '33292',
-  '6': 'AM15493',
-  '7': '2FMPK4J80GBB19353',
-  price: 33980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '1.6L I-4 cyl',
-  '3': 'Blue',
-  '4': 'Charcoal',
-  '5': '32942',
-  '6': 'AM15650',
-  '7': '1FMCU9GX3FUA95210',
-  price: 24980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '3.5L V-6 cyl',
-  '3': 'White',
-  '4': 'Grey',
-  '5': '68968',
-  '6': 'AM15525',
-  '7': '1FM5K8D87FGA16464',
-  price: 33980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.0L V-8 cyl',
-  '3': 'White',
-  '4': 'Grey',
-  '5': '124765',
-  '6': 'AM15720',
-  '7': '1FTFX1EF9DKD30853',
-  price: 24980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.0L V-8 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '18959',
-  '6': 'AM15626',
-  '7': '1FTFW1EF2GFA56721',
-  price: 37980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.0L V-8 cyl',
-  '3': 'Black',
-  '4': 'Charcoal',
-  '5': '34800',
-  '6': 'AM15601',
-  '7': '1FTEW1EF6GFA73565',
-  price: 37980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.0L V-8 cyl',
-  '3': 'Silver',
-  '4': 'Charcoal',
-  '5': '30302',
-  '6': 'AM15605',
-  '7': '1FTEW1EF4GFA38412',
-  price: 40980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.0L V-8 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '27986',
-  '6': 'AM15604',
-  '7': '1FTEW1EF9GFA56730',
-  price: 40980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.0L V-8 cyl',
-  '3': 'Dark Grey',
-  '4': 'Charcoal',
-  '5': '131161',
-  '6': 'AM15721',
-  '7': '1FTFW1EF7CFB97715',
-  price: 24980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.0L V-8 cyl',
-  '3': 'White',
-  '4': 'Grey',
-  '5': '115465',
-  '6': 'AM15510',
-  '7': '1FTFW1EF4DFB24254',
-  price: 26980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '3.5L V-6 cyl',
-  '3': 'Red',
-  '4': 'Charcoal',
-  '5': '109870',
-  '6': 'AM15688',
-  '7': '1FTFW1ET8EFB35717',
-  price: 29980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '6.2L V-8 cyl',
-  '3': 'Silver',
-  '4': 'Grey',
-  '5': '79448',
-  '6': 'AM15690',
-  '7': '1FT7W2B67DEA44712',
-  price: 33980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '3.5L V-6 cyl',
-  '3': 'Dark Grey',
-  '4': 'Black',
-  '5': '49800',
-  '6': 'AM15538',
-  '7': '2FMHK6C80FBA09592',
-  price: 32980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.0L I-4 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '62319',
-  '6': 'AM15689',
-  '7': '1FADP3J20FL224722',
-  price: 18980 }
-{ '0': 'Coupe',
-  '1': 'Rear-wheel Drive',
-  '2': '5.0L V-8 cyl',
-  '3': 'Yellow',
-  '4': 'Black',
-  '5': '42950',
-  '6': 'AM15389',
-  '7': '1ZVBP8CUXC5204021',
-  price: 35980 }
-48
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '1.8L I-4 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '39500',
-  '6': 'AM15725',
-  '7': 'KMHDH4AE0GU644558',
-  price: 18980 }
-{ '0': 'Sedan',
-  '1': 'FWD',
-  '2': '1.8L I-4 cyl',
-  '3': 'Silver',
-  '4': 'Black',
-  '5': '48000',
-  '6': 'AM15648',
-  '7': 'KMHDH4AE3GU538248',
-  price: 18980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '2.4L I-4 cyl',
-  '3': 'Grey',
-  '4': 'Black',
-  '5': '30400',
-  '6': 'AM15786',
-  '7': '5XYZUDLBXHG405692',
-  price: 30980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '3.3L V-6 cyl',
-  '3': 'Silver',
-  '4': 'Charcoal',
-  '5': '61500',
-  '6': 'AM15600A',
-  '7': 'KM8SNDHF1FU116508',
-  price: 28980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.4L I-4 cyl',
-  '3': 'White',
-  '4': 'Black',
-  '5': '37390',
-  '6': 'AM15714',
-  '7': '5NPE34AF7GH365215',
-  price: 23980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.4L I-4 cyl',
-  '3': 'Grey',
-  '4': 'Black',
-  '5': '32751',
-  '6': 'AM15713',
-  '7': '5NPE34AF4GH364961',
-  price: 23980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '2.0L I-4 cyl',
-  '3': 'Black',
-  '4': 'Charcoal',
-  '5': '36612',
-  '6': 'AM15621',
-  '7': 'KM8J3CA48GU103230',
-  price: 26980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '2.0L I-4 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '39974',
-  '6': 'AM15622',
-  '7': 'KM8J3CA48GU108895',
-  price: 26980 }
-{ '0': 'Hatchback',
-  '1': 'Front-wheel Drive',
-  '2': '1.6L I-4 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '52030',
-  '6': 'AM15705',
-  '7': 'KMHTC6AE2GU250422',
-  price: 21980 }
-{ '0': 'Hatchback',
-  '1': 'Front-wheel Drive',
-  '2': '1.6L I-4 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '48250',
-  '6': 'AM15709',
-  '7': 'KMHTC6AE8GU259352',
-  price: 21980 }
-{ '0': 'Hatchback',
-  '1': 'FWD',
-  '2': '1.6L I-4 cyl',
-  '3': 'Orange',
-  '4': 'Black',
-  '5': '43036',
-  '6': 'AM15646',
-  '7': 'KMHTC6AE6GU259012',
-  price: 21980 }
-{ '0': 'Sedan',
-  '1': 'AWD',
-  '2': '3.5L V-6 cyl',
-  '3': 'Black',
-  '4': 'Charcoal',
-  '5': '125000',
-  '6': 'AM15498A',
-  '7': 'JNKBV61F68M264374',
-  price: 15980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '2.4L I-4 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '60600',
-  '6': 'AM14851A',
-  '7': '1C4PJMCBXEW137404',
-  price: 21980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': ' I-4 cyl',
-  '3': 'Red',
-  '4': 'Charcoal',
-  '5': '51570',
-  '6': 'AM15768',
-  '7': '1C4PJMCB0GW100834',
-  price: NaN }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '2.4L I-4 cyl',
-  '3': 'Red',
-  '4': 'Charcoal',
-  '5': '51570',
-  '6': 'AM15768',
-  '7': '1C4PJMCB0GW100834',
-  price: 26980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '3.2L V-6 cyl',
-  '3': 'White',
-  '4': 'Black',
-  '5': '41092',
-  '6': 'AM15746',
-  '7': '1C4PJMBS3GW256206',
-  price: 33980 }
-64
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '3.2L V-6 cyl',
-  '3': 'Blue',
-  '4': 'Black',
-  '5': '30561',
-  '6': 'AM14744',
-  '7': '1C4PJMBS9FW713339',
-  price: 30980 }
-{ '0': 'SUV',
-  '1': '4WD',
-  '2': '2.4L I-4 cyl',
-  '3': 'Grey',
-  '4': 'Black',
-  '5': '34250',
-  '6': 'AM15723',
-  '7': '1C4NJDAB5FD381260',
-  price: 22980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '3.6L V-6 cyl',
-  '3': 'Blue',
-  '4': 'Charcoal',
-  '5': '42012',
-  '6': 'AM15677',
-  '7': '1C4RJFAG1GC431085',
-  price: 33980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '3.6L V-6 cyl',
-  '3': 'Silver',
-  '4': 'Black',
-  '5': '146378',
-  '6': 'AM15275',
-  '7': '1J4RR4GG1BC570835',
-  price: 21980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'White',
-  '4': 'Black',
-  '5': '9800',
-  '6': 'AM15707',
-  '7': '1C4RJFBT2HC718660',
-  price: 52980 }
-{ '0': 'SUV',
-  '1': '4WD',
-  '2': '3.6L V-6 cyl',
-  '3': 'Dark Grey',
-  '4': 'Black',
-  '5': '33017',
-  '6': 'AM15760',
-  '7': '1C4RJFBG5GC433680',
-  price: 41980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '3.6L V-6 cyl',
-  '3': 'Silver',
-  '4': 'Black',
-  '5': '48560',
-  '6': 'AM15761',
-  '7': '1C4RJFBG6FC874619',
-  price: 36980 }
-{ '0': 'SUV',
-  '1': '4WD',
-  '2': '3.6L V-6 cyl',
-  '3': 'White',
-  '4': 'Black',
-  '5': '37998',
-  '6': 'AM15775',
-  '7': '1C4RJFBG6GC404382',
-  price: 39980 }
-{ '0': 'SUV',
-  '1': '4WD',
-  '2': '2.4L I-4 cyl',
-  '3': 'Red',
-  '4': 'Black',
-  '5': '46042',
-  '6': 'AM15736',
-  '7': '1C4NJRAB8FD339064',
-  price: 21980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '3.6L V-6 cyl',
-  '3': 'Silver',
-  '4': 'Charcoal',
-  '5': '73653',
-  '6': 'AM15551A',
-  '7': '1C4AJWAG8DL652773',
-  price: 25980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '3.6L V-6 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '49392',
-  '6': 'AM15424',
-  '7': '1C4HJWEG1FL701887',
-  price: 38980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '3.6L V-6 cyl',
-  '3': 'White',
-  '4': 'Black',
-  '5': '50503',
-  '6': 'AM15425',
-  '7': '1C4HJWEG5FL698377',
-  price: 38980 }
-{ '0': 'SUV',
-  '1': '4x4',
-  '2': '3.6L V-6 cyl',
-  '3': 'Black',
-  '4': 'Charcoal',
-  '5': '93540',
-  '6': 'AM15523',
-  '7': '1C4BJWEG8CL179602',
-  price: 28980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '1.8L I-4 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '44454',
-  '6': 'AM15769',
-  '7': 'KNAFK4A69G5448746',
-  price: 15980 }
-{ '0': 'Sedan',
-  '1': 'FWD',
-  '2': '2.4L I-4 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '57355',
-  '6': 'AM15362',
-  '7': 'KNAGM4A7XF5612267',
-  price: 18980 }
-{ '0': 'Sedan',
-  '1': 'Front-wheel Drive',
-  '2': '2.4L I-4 cyl',
-  '3': 'Red',
-  '4': 'Charcoal',
-  '5': '30493',
-  '6': 'AM15770',
-  '7': '5XXGT4L39GG055123',
-  price: 21980 }
-80
-{ '0': 'Sedan',
-  '1': 'RWD',
-  '2': '3.6L V6 Cylinder Engine',
-  '3': 'Silver',
-  '4': 'Black',
-  '5': '22653',
-  '6': 'AM15074',
-  '7': '2C3CCABG2FH853092',
-  price: 29980 }
-{ '0': 'Sedan',
-  '1': 'RWD',
-  '2': '3.6L V-6 cyl',
-  '3': 'Dark Grey',
-  '4': 'Black',
-  '5': '38504',
-  '6': 'AM15704',
-  '7': '2C3CCABG9GH170372',
-  price: 30980 }
-{ '0': 'Sedan',
-  '1': 'rear-wheel drive',
-  '2': '3.6L V-6 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '127300',
-  '6': 'AM15710A',
-  '7': '2C3CA4CGXBH562730',
-  price: 11980 }
-{ '0': 'Minivan',
-  '1': 'FWD',
-  '2': '3.6L V-6 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '31303',
-  '6': 'AM15011',
-  '7': '2C4RC1HG9FR714567',
-  price: 33980 }
-{ '0': 'Coupe',
-  '1': 'RWD',
-  '2': '6.4L V-8 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '26944',
-  '6': 'AM15049',
-  '7': '2C3CDYCJ1EH286971',
-  price: 41980 }
-{ '0': 'Sedan',
-  '1': 'RWD',
-  '2': '3.6L V-6 cyl',
-  '3': 'Grey',
-  '4': 'Black',
-  '5': '61187',
-  '6': 'AM15415',
-  '7': '2C3CDXHG4FH765250',
-  price: 24980 }
-{ '0': 'Sedan',
-  '1': 'RWD',
-  '2': '3.6L V-6 cyl',
-  '3': 'Red',
-  '4': 'Charcoal',
-  '5': '53779',
-  '6': 'AM15357',
-  '7': '2C3CDXHG2FH857165',
-  price: 24980 }
-{ '0': 'Sedan',
-  '1': 'RWD',
-  '2': '3.6L V-6 cyl',
-  '3': 'White',
-  '4': 'Black',
-  '5': '57989',
-  '6': 'AM15356',
-  '7': '2C3CDXHG2FH851818',
-  price: 24980 }
-{ '0': 'Sedan',
-  '1': 'RWD',
-  '2': '3.6L V-6 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '47134',
-  '6': 'AM15416',
-  '7': '2C3CDXHG5FH870962',
-  price: 24980 }
-{ '0': 'Sedan',
-  '1': 'Rear-wheel Drive',
-  '2': '3.6L V-6 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '68048',
-  '6': 'AM15545A',
-  '7': '2C3CDXHGXFH727554',
-  price: 23980 }
-{ '0': 'Sedan',
-  '1': 'RWD',
-  '2': '3.6L V-6 cyl',
-  '3': 'Black',
-  '4': 'Black',
-  '5': '38790',
-  '6': 'AM14773',
-  '7': '2C3CDXHG7FH765274',
-  price: 24980 }
-{ '0': 'Sedan',
-  '1': 'Rear-wheel Drive',
-  '2': '3.6L V-6 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '209615',
-  '6': 'AM15422A',
-  '7': '2B3CL3CG7BH583634',
-  price: 10980 }
-{ '0': 'SUV',
-  '1': 'All-wheel Drive',
-  '2': '5.7L V-8 cyl',
-  '3': 'Red',
-  '4': 'Black',
-  '5': '25356',
-  '6': 'AM15619',
-  '7': '1C4SDJCT0GC375159',
-  price: 46980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '3.6L V-6 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '26814',
-  '6': 'AM15763',
-  '7': '1C4RDJAGXGC353836',
-  price: 35980 }
-{ '0': 'SUV',
-  '1': 'AWD',
-  '2': '3.6L V-6 cyl',
-  '3': 'Green',
-  '4': 'Charcoal',
-  '5': '44357',
-  '6': 'AM15762',
-  '7': '1C4RDJAG8GC353835',
-  price: 35980 }
-{ '0': 'Van Passenger Van',
-  '1': 'Front-wheel Drive',
-  '2': '3.6L V-6 cyl',
-  '3': 'Blue',
-  '4': 'Charcoal',
-  '5': '73656',
-  '6': 'AM15669',
-  '7': '2C4RDGDG5FR599827',
-  price: 23980 }
-96
 { '0': 'Convertible',
   '1': 'RWD',
   '2': '2.3L I-4 cyl',
@@ -899,6 +7,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15069',
   '7': '1FATP8UH7F5393424',
   price: 34980 }
+
+
 { '0': 'Convertible',
   '1': 'RWD',
   '2': '2.3L I-4 cyl',
@@ -908,6 +18,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15030',
   '7': '1FATP8UH5F5409944',
   price: 33980 }
+
+
 { '0': 'Truck',
   '1': '4x4',
   '2': '4.0L V-6 cyl',
@@ -917,6 +29,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15433A',
   '7': '1FTZR45E28PB17347',
   price: 11980 }
+
+
 { '0': 'Sedan',
   '1': 'All-wheel Drive',
   '2': '3.5L V-6 cyl',
@@ -926,6 +40,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15767',
   '7': '1FAHP2J82FG173667',
   price: 26980 }
+
+
 { '0': 'SUV',
   '1': 'All-wheel Drive',
   '2': '3.6L V-6 cyl',
@@ -935,6 +51,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15560A',
   '7': '1GKKVRED7BJ205293',
   price: 13980 }
+
+
 { '0': 'Truck',
   '1': '4x2',
   '2': '4.3L V-6 cyl',
@@ -944,6 +62,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15682',
   '7': '1GTR1TEH8EZ301056',
   price: 25980 }
+
+
 { '0': 'Truck',
   '1': '4x4',
   '2': '4.8L V-8 cyl',
@@ -953,6 +73,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15685',
   '7': '1GTR2UEA2BZ203061',
   price: 22980 }
+
+
 { '0': 'SUV',
   '1': 'Front-wheel Drive',
   '2': '2.4L I-4 cyl',
@@ -962,6 +84,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15445A',
   '7': '2GKALSEK3C6110638',
   price: 13980 }
+
+
 { '0': 'SUV',
   '1': '4x4',
   '2': '5.3L V-8 cyl',
@@ -971,6 +95,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15515A',
   '7': '1GKUKAE06AR119649',
   price: 19980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '2.4L I-4 cyl',
@@ -980,6 +106,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15728',
   '7': '1HGCR2F86EA802437',
   price: 18980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '2.4L I-4 cyl',
@@ -989,6 +117,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'KULUCONS',
   '7': '1HGCR2F50EA800706',
   price: 22980 }
+
+
 { '0': 'SUV',
   '1': '4x4',
   '2': '3.5L V-6 cyl',
@@ -998,6 +128,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15712',
   '7': '5J6TF2H50AL801724',
   price: 15980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '1.6L I-4 cyl',
@@ -1007,6 +139,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15701',
   '7': 'KMHCT4AEXGU011169',
   price: 16980 }
+
+
 { '0': 'Sedan',
   '1': 'FWD',
   '2': '1.6L I-4 cyl',
@@ -1016,6 +150,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15703',
   '7': 'KMHCT4AE9GU011115',
   price: 16980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '1.6L I-4 cyl',
@@ -1025,6 +161,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15700',
   '7': 'KMHCT4AE4GU010888',
   price: 16980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '1.8L I-4 cyl',
@@ -1034,7 +172,523 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15758',
   '7': 'KMHDH4AE4GU643770',
   price: 18980 }
-112
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': ' Straight 6 Cylinder Engine',
+  '3': 'Black',
+  '4': '152407',
+  '5': 'AM14957A',
+  '6': '5S3ET13S892802078',
+  price: 12980 }
+
+
+{ '0': 'SUV',
+  '1': 'All-wheel Drive',
+  '2': '2.5L H-4 cyl',
+  '3': 'Maroon',
+  '4': 'Charcoal',
+  '5': '15055',
+  '6': 'AM15740',
+  '7': 'JF2SJCCCXGH513427',
+  price: 27980 }
+
+
+{ '0': 'Sedan',
+  '1': 'FWD',
+  '2': '3.5L V-6 cyl',
+  '3': 'Dark Grey',
+  '4': 'Black',
+  '5': '84010',
+  '6': 'AM15352',
+  '7': '4T1BK3DB5CU448890',
+  price: 20980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.5L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '44668',
+  '6': 'AM15462',
+  '7': '4T1BF1FK1FU953772',
+  price: NaN }
+
+
+{ '0': 'SUV',
+  '1': 'All-wheel Drive',
+  '2': '2.5L I-4 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '34241',
+  '6': 'AM15733',
+  '7': '2T3BFREV0GW496388',
+  price: 26980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '2.5L I-4 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '55250',
+  '6': 'AM15609',
+  '7': '2T3BFREV1FW333876',
+  price: 27980 }
+
+
+{ '0': 'Van Passenger Van',
+  '1': 'Front-wheel Drive',
+  '2': '3.5L V-6 cyl',
+  '3': 'Light Grey',
+  '4': 'Grey',
+  '5': '57737',
+  '6': 'AM15735',
+  '7': '5TDZK3DCXFS614731',
+  price: 26980 }
+
+
+{ '0': 'Truck',
+  '1': '4WD',
+  '2': '4.0L V-6 cyl',
+  '3': 'White',
+  '4': 'Grey',
+  '5': '56669',
+  '6': 'AM15548A',
+  '7': '5TFMU4FN4FX031249',
+  price: 33980 }
+
+
+{ '0': 'Hatchback',
+  '1': 'FWD',
+  '2': '1.5L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '38265',
+  '6': 'AM15158',
+  '7': 'VNKKTUD30FA047258',
+  price: 16980 }
+
+
+{ '0': 'Hatchback',
+  '1': 'Front-wheel Drive',
+  '2': '1.8L I-4 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '53733',
+  '6': 'AM15749',
+  '7': '3VW217AUXFM058328',
+  price: 18980 }
+
+
+{ '0': 'Hatchback',
+  '1': 'FWD',
+  '2': '1.8L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '51923',
+  '6': 'AM15636',
+  '7': '3VW217AU1FM057830',
+  price: 18980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '1.4L I-4 cyl',
+  '3': 'Brown',
+  '4': 'Black',
+  '5': '38417',
+  '6': 'AM15614',
+  '7': '3VWD67AJ8GM318470',
+  price: 22980 }
+
+
+{ '0': 'Sedan',
+  '1': 'FWD',
+  '2': '1.4L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Black',
+  '5': '39894',
+  '6': 'AM15591',
+  '7': '3VWD67AJ6GM282830',
+  price: 22980 }
+
+
+{ '0': 'Sedan',
+  '1': 'FWD',
+  '2': '1.4L I-4 cyl',
+  '3': 'Blue',
+  '4': 'Black',
+  '5': '22150',
+  '6': 'AM15708',
+  '7': '3VWD67AJ8GM311440',
+  price: 22980 }
+
+
+{ '0': 'Sedan',
+  '1': 'AWD',
+  '2': '3.0L I-6 cyl',
+  '3': 'Silver',
+  '4': '37246',
+  '5': 'AM14631',
+  '6': 'YV1902MC3F1181809',
+  price: 35980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '1.8L I-4 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '39500',
+  '6': 'AM15725',
+  '7': 'KMHDH4AE0GU644558',
+  price: 18980 }
+
+
+{ '0': 'Sedan',
+  '1': 'FWD',
+  '2': '1.8L I-4 cyl',
+  '3': 'Silver',
+  '4': 'Black',
+  '5': '48000',
+  '6': 'AM15648',
+  '7': 'KMHDH4AE3GU538248',
+  price: 18980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '2.4L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Black',
+  '5': '30400',
+  '6': 'AM15786',
+  '7': '5XYZUDLBXHG405692',
+  price: 30980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '3.3L V-6 cyl',
+  '3': 'Silver',
+  '4': 'Charcoal',
+  '5': '61500',
+  '6': 'AM15600A',
+  '7': 'KM8SNDHF1FU116508',
+  price: 28980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.4L I-4 cyl',
+  '3': 'White',
+  '4': 'Black',
+  '5': '37390',
+  '6': 'AM15714',
+  '7': '5NPE34AF7GH365215',
+  price: 23980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.4L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Black',
+  '5': '32751',
+  '6': 'AM15713',
+  '7': '5NPE34AF4GH364961',
+  price: 23980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '2.0L I-4 cyl',
+  '3': 'Black',
+  '4': 'Charcoal',
+  '5': '36612',
+  '6': 'AM15621',
+  '7': 'KM8J3CA48GU103230',
+  price: 26980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '2.0L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '39974',
+  '6': 'AM15622',
+  '7': 'KM8J3CA48GU108895',
+  price: 26980 }
+
+
+{ '0': 'Hatchback',
+  '1': 'Front-wheel Drive',
+  '2': '1.6L I-4 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '52030',
+  '6': 'AM15705',
+  '7': 'KMHTC6AE2GU250422',
+  price: 21980 }
+
+
+{ '0': 'Hatchback',
+  '1': 'Front-wheel Drive',
+  '2': '1.6L I-4 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '48250',
+  '6': 'AM15709',
+  '7': 'KMHTC6AE8GU259352',
+  price: 21980 }
+
+
+{ '0': 'Hatchback',
+  '1': 'FWD',
+  '2': '1.6L I-4 cyl',
+  '3': 'Orange',
+  '4': 'Black',
+  '5': '43036',
+  '6': 'AM15646',
+  '7': 'KMHTC6AE6GU259012',
+  price: 21980 }
+
+
+{ '0': 'Sedan',
+  '1': 'AWD',
+  '2': '3.5L V-6 cyl',
+  '3': 'Black',
+  '4': 'Charcoal',
+  '5': '125000',
+  '6': 'AM15498A',
+  '7': 'JNKBV61F68M264374',
+  price: 15980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '2.4L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '60600',
+  '6': 'AM14851A',
+  '7': '1C4PJMCBXEW137404',
+  price: 21980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': ' I-4 cyl',
+  '3': 'Red',
+  '4': 'Charcoal',
+  '5': '51570',
+  '6': 'AM15768',
+  '7': '1C4PJMCB0GW100834',
+  price: NaN }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '2.4L I-4 cyl',
+  '3': 'Red',
+  '4': 'Charcoal',
+  '5': '51570',
+  '6': 'AM15768',
+  '7': '1C4PJMCB0GW100834',
+  price: 26980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '3.2L V-6 cyl',
+  '3': 'White',
+  '4': 'Black',
+  '5': '41092',
+  '6': 'AM15746',
+  '7': '1C4PJMBS3GW256206',
+  price: 33980 }
+
+
+{ '0': 'SUV',
+  '1': 'All-wheel Drive',
+  '2': '2.0L I-4 cyl',
+  '3': 'Dark Grey',
+  '4': 'Black',
+  '5': '22850',
+  '6': 'AM15756',
+  '7': 'WDCTG4GB9FJ149186',
+  price: 38980 }
+
+
+{ '0': 'Convertible',
+  '1': 'Rear-wheel Drive',
+  '2': '5.4L V-8 cyl',
+  '3': 'Silver',
+  '4': 'Grey',
+  '5': '56588',
+  '6': 'AM15566',
+  '7': 'WDBSK74F33F058050',
+  price: 34980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.0L I-4 cyl',
+  '3': 'Blue',
+  '4': 'Charcoal',
+  '5': '29979',
+  '6': 'AM15772',
+  '7': 'JA32U2FUXGU600576',
+  price: 17980 }
+
+
+{ '0': 'Sedan',
+  '1': 'AWD',
+  '2': '2.0L I-4 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '153267',
+  '6': 'AM15006A',
+  '7': 'JA3AV66V69U609822',
+  price: 14980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '2.4L I-4 cyl',
+  '3': 'White',
+  '4': 'Black',
+  '5': '50891',
+  '6': 'AM15130',
+  '7': 'JA4AZ2A33FZ600797',
+  price: 24980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.5L I-4 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '51196',
+  '6': 'AM15663',
+  '7': '1N4AL3APXFN861096',
+  price: 18980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.5L I-4 cyl',
+  '3': 'Silver',
+  '4': 'Charcoal',
+  '5': '56953',
+  '6': 'AM15678',
+  '7': '1N4AL3AP7FN374146',
+  price: 18980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.5L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '69100',
+  '6': 'AM15280A',
+  '7': '1N4AL3AP0EN261363',
+  price: 17980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.5L I-4 cyl',
+  '3': 'Charcoal',
+  '4': 'Charcoal',
+  '5': '45038',
+  '6': 'AM15748',
+  '7': '1N4AL3AP2GN314504',
+  price: 23980 }
+
+
+{ '0': 'Sedan',
+  '1': 'FWD',
+  '2': '2.5L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Black',
+  '5': '52800',
+  '6': 'AM15739',
+  '7': '1N4AL3AP3GN314513',
+  price: 23980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.5L I-4 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '18623',
+  '6': 'AM15773',
+  '7': '1N4AL3AP3HN304646',
+  price: 25980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.5L I-4 cyl',
+  '3': 'Red',
+  '4': 'Charcoal',
+  '5': '20701',
+  '6': 'AM15774',
+  '7': '1N4AL3AP0HN304197',
+  price: 25980 }
+
+
+{ '0': 'Sedan',
+  '1': 'FWD',
+  '2': '3.5L V-6 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '29192',
+  '6': 'AM15430',
+  '7': '1N4AA6AP3GC423752',
+  price: 34980 }
+
+
+{ '0': 'SUV',
+  '1': 'All-wheel Drive',
+  '2': '3.5L V-6 cyl',
+  '3': 'Grey',
+  '4': 'Black',
+  '5': '28099',
+  '6': 'AM15780',
+  '7': '5N1AZ2MHXGN139082',
+  price: 39980 }
+
+
+{ '0': 'SUV',
+  '1': 'All-wheel Drive',
+  '2': '3.5L V-6 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '29050',
+  '6': 'AM15781',
+  '7': '5N1AZ2MH9GN138151',
+  price: 39980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '3.5L V-6 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '39876',
+  '6': 'AM15753',
+  '7': '5N1AZ2MH3GN115366',
+  price: 32980 }
+
+
 { '0': 'Wagon',
   '1': 'AWD',
   '2': '3.5L V-6 cyl',
@@ -1044,6 +698,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15737',
   '7': '5N1AZ2MH2GN113866',
   price: 32980 }
+
+
 { '0': 'SUV',
   '1': '4x4',
   '2': '3.5L V-6 cyl',
@@ -1053,6 +709,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15431',
   '7': '5N1AR2MM5GC630068',
   price: 34980 }
+
+
 { '0': 'SUV',
   '1': '4x4',
   '2': '3.5L V-6 cyl',
@@ -1062,6 +720,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15547',
   '7': '5N1AR2MM4GC616243',
   price: 34980 }
+
+
 { '0': 'SUV',
   '1': '4x4',
   '2': '3.5L V-6 cyl',
@@ -1071,6 +731,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15336',
   '7': '5N1AR2MM0FC681203',
   price: 31980 }
+
+
 { '0': 'SUV',
   '1': 'All-wheel Drive',
   '2': '2.5L I-4 cyl',
@@ -1080,6 +742,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15782',
   '7': '5N1AT2MV1GC734289',
   price: 25980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '1.8L I-4 cyl',
@@ -1089,6 +753,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15699',
   '7': '3N1AB7AP2GL636454',
   price: 17980 }
+
+
 { '0': 'Sedan',
   '1': 'FWD',
   '2': '1.8L I-4 cyl',
@@ -1098,6 +764,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15671',
   '7': '3N1AB7AP2GL637104',
   price: 17980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '1.8L I-4 cyl',
@@ -1107,6 +775,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15693',
   '7': '3N1AB7AP7GL636725',
   price: 17980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '1.8L I-4 cyl',
@@ -1116,6 +786,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15702',
   '7': '3N1AB7AP0GL646903',
   price: 17980 }
+
+
 { '0': 'Truck',
   '1': '4x4',
   '2': '5.6L V-8 cyl',
@@ -1123,62 +795,425 @@ TypeError: Cannot read property 'children' of undefined
   '4': '20460',
   '5': 'AM15050',
   '6': '1N6AA0EJ0FN514734',
-  '7': 'Truck',
   price: 29980 }
-{ '0': '4x4',
-  '1': '5.7L V-8 cyl',
-  '2': 'Silver',
-  '3': 'Charcoal',
-  '4': '35382',
-  '5': 'AM15206',
-  '6': '1C6RR7LT3FS737032',
-  '7': 'Truck',
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Silver',
+  '4': 'Charcoal',
+  '5': '35382',
+  '6': 'AM15206',
+  '7': '1C6RR7LT3FS737032',
   price: 33980 }
-{ '0': '4x4',
-  '1': '5.7L V-8 cyl',
-  '2': 'Black',
-  '3': 'Charcoal',
-  '4': '32526',
-  '5': 'AM15378',
-  '6': '1C6RR7LT2GS109027',
-  '7': 'Truck',
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Black',
+  '4': 'Charcoal',
+  '5': '32526',
+  '6': 'AM15378',
+  '7': '1C6RR7LT2GS109027',
   price: 36980 }
-{ '0': '4x4',
-  '1': '5.7L V-8 cyl',
-  '2': 'Blue',
-  '3': 'Charcoal',
-  '4': '27812',
-  '5': 'AM15240',
-  '6': '1C6RR7LT5GS109068',
-  '7': 'Truck',
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Blue',
+  '4': 'Charcoal',
+  '5': '27812',
+  '6': 'AM15240',
+  '7': '1C6RR7LT5GS109068',
   price: 36980 }
-{ '0': '4x4',
-  '1': '5.7L V-8 cyl',
-  '2': 'Red',
-  '3': 'Charcoal',
-  '4': '21238',
-  '5': 'AM15238',
-  '6': '1C6RR7LT4GS109160',
-  '7': 'Truck',
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Red',
+  '4': 'Charcoal',
+  '5': '21238',
+  '6': 'AM15238',
+  '7': '1C6RR7LT4GS109160',
   price: 36980 }
-{ '0': '4x4',
-  '1': '5.7L V-8 cyl',
-  '2': 'Silver',
-  '3': 'Charcoal',
-  '4': '41875',
-  '5': 'AM15199',
-  '6': '1C6RR7LT7FS737020',
-  '7': 'Truck',
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Silver',
+  '4': 'Charcoal',
+  '5': '41875',
+  '6': 'AM15199',
+  '7': '1C6RR7LT7FS737020',
   price: 33980 }
-{ '0': '4x4',
-  '1': '5.7L V-8 cyl',
-  '2': 'Silver',
-  '3': 'Charcoal',
-  '4': '36443',
-  '5': 'AM15201',
-  '6': '1C6RR7LT1FS737031',
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Silver',
+  '4': 'Charcoal',
+  '5': '36443',
+  '6': 'AM15201',
+  '7': '1C6RR7LT1FS737031',
   price: 33980 }
-128
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.4L I-4 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '40106',
+  '6': 'AM15771',
+  '7': '5XXGT4L33GG061631',
+  price: 21980 }
+
+
+{ '0': 'SUV',
+  '1': 'All-wheel Drive',
+  '2': '2.4L I-4 cyl',
+  '3': 'Black',
+  '4': 'Charcoal',
+  '5': '20244',
+  '6': 'AM15776',
+  '7': '5XYPGDA35HG211047',
+  price: 26980 }
+
+
+{ '0': 'SUV',
+  '1': 'All-wheel Drive',
+  '2': '2.4L I-4 cyl',
+  '3': 'Silver',
+  '4': 'Charcoal',
+  '5': '29206',
+  '6': 'AM15777',
+  '7': '5XYPGDA30HG210436',
+  price: 26980 }
+
+
+{ '0': 'SUV',
+  '1': 'All-wheel Drive',
+  '2': '2.4L I-4 cyl',
+  '3': 'Black',
+  '4': 'Charcoal',
+  '5': '28960',
+  '6': 'AM15778',
+  '7': '5XYPGDA36HG211185',
+  price: 26980 }
+
+
+{ '0': 'SUV',
+  '1': 'All-wheel Drive',
+  '2': '2.4L I-4 cyl',
+  '3': 'Blue',
+  '4': 'Burgundy',
+  '5': '20501',
+  '6': 'AM15779',
+  '7': '5XYPGDA35HG210674',
+  price: 26980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '5.0L V-8 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '40853',
+  '6': 'AM15504',
+  '7': 'SALGV2EF1EA145857',
+  price: 113980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '3.0L V-6 cyl',
+  '3': 'Red',
+  '4': 'Black',
+  '5': '23002',
+  '6': 'K123',
+  '7': 'SALWR2WF5EA375528',
+  price: 66980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '5.0L V-8 cyl',
+  '3': 'Black',
+  '4': 'Brown',
+  '5': '44086',
+  '6': 'K1235',
+  '7': 'SALWR2TF9EA361104',
+  price: 77980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '3.7L V-6 cyl',
+  '3': 'Red',
+  '4': 'Tan',
+  '5': '72100',
+  '6': 'AM15586',
+  '7': '2LMDJ8JKXEBL18078',
+  price: 30980 }
+
+
+{ '0': 'Hatchback',
+  '1': 'FWD',
+  '2': '1.5L I-3 cyl',
+  '3': 'Grey',
+  '4': 'Black',
+  '5': '27600',
+  '6': 'AM15480',
+  '7': 'WMWXP5C51G3B14662',
+  price: 24980 }
+
+
+{ '0': 'SUV',
+  '1': 'All-wheel Drive',
+  '2': '2.0L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Black',
+  '5': '23943',
+  '6': 'AM15104',
+  '7': 'JM3KE4BEXG0698080',
+  price: 28980 }
+
+
+{ '0': 'Sedan',
+  '1': 'FWD',
+  '2': '2.0L I-4 cyl',
+  '3': 'Blue',
+  '4': 'Charcoal',
+  '5': '127000',
+  '6': 'AM15204A',
+  '7': 'JM1BL1VF1B1380255',
+  price: 9980 }
+
+
+{ '0': 'Sedan',
+  '1': 'AWD',
+  '2': '2.0L I-4 cyl',
+  '3': 'White',
+  '4': 'Black',
+  '5': '29940',
+  '6': 'AM15692',
+  '7': '55SWF4KB4GU122370',
+  price: 43980 }
+
+
+{ '0': 'Sedan',
+  '1': 'All-wheel Drive',
+  '2': '3.5L V-6 cyl',
+  '3': 'White',
+  '4': 'Black',
+  '5': '71143',
+  '6': 'AM15641A',
+  '7': 'WDDGF8AB7DA854498',
+  price: 24980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '3.0L V-6 cyl',
+  '3': 'Black',
+  '4': 'Brown',
+  '5': '96500',
+  '6': 'AMCONS',
+  '7': '4JGDF2EE0DA132655',
+  price: 57980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '3.0L V-6 cyl',
+  '3': '147320',
+  '4': 'CON567',
+  '5': '4JGBF2FE9CA776966',
+  price: 33980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '2.0L I-4 cyl',
+  '3': 'White',
+  '4': 'Black',
+  '5': '34070',
+  '6': 'AM15552',
+  '7': '2FMPK4J9XGBB19482',
+  price: 33980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '3.5L V-6 cyl',
+  '3': 'White',
+  '4': 'Black',
+  '5': '33292',
+  '6': 'AM15493',
+  '7': '2FMPK4J80GBB19353',
+  price: 33980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '1.6L I-4 cyl',
+  '3': 'Blue',
+  '4': 'Charcoal',
+  '5': '32942',
+  '6': 'AM15650',
+  '7': '1FMCU9GX3FUA95210',
+  price: 24980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '3.5L V-6 cyl',
+  '3': 'White',
+  '4': 'Grey',
+  '5': '68968',
+  '6': 'AM15525',
+  '7': '1FM5K8D87FGA16464',
+  price: 33980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.0L V-8 cyl',
+  '3': 'White',
+  '4': 'Grey',
+  '5': '124765',
+  '6': 'AM15720',
+  '7': '1FTFX1EF9DKD30853',
+  price: 24980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.0L V-8 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '18959',
+  '6': 'AM15626',
+  '7': '1FTFW1EF2GFA56721',
+  price: 37980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.0L V-8 cyl',
+  '3': 'Black',
+  '4': 'Charcoal',
+  '5': '34800',
+  '6': 'AM15601',
+  '7': '1FTEW1EF6GFA73565',
+  price: 37980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.0L V-8 cyl',
+  '3': 'Silver',
+  '4': 'Charcoal',
+  '5': '30302',
+  '6': 'AM15605',
+  '7': '1FTEW1EF4GFA38412',
+  price: 40980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.0L V-8 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '27986',
+  '6': 'AM15604',
+  '7': '1FTEW1EF9GFA56730',
+  price: 40980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.0L V-8 cyl',
+  '3': 'Dark Grey',
+  '4': 'Charcoal',
+  '5': '131161',
+  '6': 'AM15721',
+  '7': '1FTFW1EF7CFB97715',
+  price: 24980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.0L V-8 cyl',
+  '3': 'White',
+  '4': 'Grey',
+  '5': '115465',
+  '6': 'AM15510',
+  '7': '1FTFW1EF4DFB24254',
+  price: 26980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '3.5L V-6 cyl',
+  '3': 'Red',
+  '4': 'Charcoal',
+  '5': '109870',
+  '6': 'AM15688',
+  '7': '1FTFW1ET8EFB35717',
+  price: 29980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '6.2L V-8 cyl',
+  '3': 'Silver',
+  '4': 'Grey',
+  '5': '79448',
+  '6': 'AM15690',
+  '7': '1FT7W2B67DEA44712',
+  price: 33980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '3.5L V-6 cyl',
+  '3': 'Dark Grey',
+  '4': 'Black',
+  '5': '49800',
+  '6': 'AM15538',
+  '7': '2FMHK6C80FBA09592',
+  price: 32980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.0L I-4 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '62319',
+  '6': 'AM15689',
+  '7': '1FADP3J20FL224722',
+  price: 18980 }
+
+
+{ '0': 'Coupe',
+  '1': 'Rear-wheel Drive',
+  '2': '5.0L V-8 cyl',
+  '3': 'Yellow',
+  '4': 'Black',
+  '5': '42950',
+  '6': 'AM15389',
+  '7': '1ZVBP8CUXC5204021',
+  price: 35980 }
+
+
 { '0': 'Sedan',
   '1': 'FWD',
   '2': '1.4L I-4 cyl',
@@ -1188,6 +1223,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15730',
   '7': '1G1PE5SB7G7224436',
   price: 17980 }
+
+
 { '0': 'Sedan',
   '1': 'FWD',
   '2': '1.4L I-4 cyl',
@@ -1197,6 +1234,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15731',
   '7': '1G1PE5SB3G7187756',
   price: 17980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '1.8L I-4 cyl',
@@ -1206,6 +1245,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15726A',
   '7': '1G1PA5SH9D7308835',
   price: 10980 }
+
+
 { '0': 'Sedan',
   '1': 'FWD',
   '2': '1.4L I-4 cyl',
@@ -1215,6 +1256,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15599A',
   '7': '1G1PG5SCXC7171843',
   price: 9980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '1.4L I-4 cyl',
@@ -1224,6 +1267,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15729',
   '7': '1G1PE5SB5G7174779',
   price: 18980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '1.4L I-4 cyl',
@@ -1233,6 +1278,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15754',
   '7': '1G1PE5SB2G7223551',
   price: 17980 }
+
+
 { '0': 'Sedan',
   '1': 'Front-wheel Drive',
   '2': '3.5L V-6 cyl',
@@ -1242,6 +1289,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15755B',
   '7': '2G1WB5EK3B1315354',
   price: 8980 }
+
+
 { '0': 'Sedan',
   '1': 'FWD',
   '2': '2.5L I-4 cyl',
@@ -1251,6 +1300,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15414',
   '7': '1G11C5SA5GU140636',
   price: 21980 }
+
+
 { '0': 'Truck',
   '1': '4x4',
   '2': ' V-8 cyl',
@@ -1260,6 +1311,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15589A',
   '7': '3GCXKUEJ8AG185932',
   price: 13980 }
+
+
 { '0': 'Truck',
   '1': '4x4',
   '2': '5.3L V-8 cyl',
@@ -1269,6 +1322,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15787',
   '7': '3GCPKSE73CG279258',
   price: 22980 }
+
+
 { '0': 'Truck Crew Cab',
   '1': '4x4',
   '2': '6.0L V-8 cyl',
@@ -1278,6 +1333,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15589A',
   '7': '3GCXKUEJ8AG185932',
   price: 13980 }
+
+
 { '0': 'Truck Crew Cab',
   '1': '4x4',
   '2': '6.6L V-8 cyl',
@@ -1287,6 +1344,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15391',
   '7': '1GC1KWE84GF220751',
   price: 69980 }
+
+
 { '0': 'Truck',
   '1': '4x4',
   '2': '6.0L V-8 cyl',
@@ -1296,6 +1355,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15161',
   '7': '1GC1KYEG0EF167241',
   price: 37980 }
+
+
 { '0': 'Truck Crew Cab',
   '1': '4x4',
   '2': '6.0L V-8 cyl',
@@ -1305,6 +1366,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15711',
   '7': '1GC4KZEG7GF238358',
   price: 45980 }
+
+
 { '0': 'Sedan',
   '1': 'All-wheel Drive',
   '2': '3.6L V-6 cyl',
@@ -1314,6 +1377,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15784',
   '7': '2C3CCARG0GH261536',
   price: 32980 }
+
+
 { '0': 'Sedan',
   '1': 'All-wheel Drive',
   '2': '3.6L V-6 cyl',
@@ -1323,152 +1388,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15785',
   '7': '2C3CCAGGXGH238901',
   price: 34980 }
-144
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '39104',
-  '6': 'AM15203',
-  '7': '1C6RR7LT9FS744261',
-  price: 33980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'Silver',
-  '4': 'Charcoal',
-  '5': '39403',
-  '6': 'AM15634',
-  '7': '1C6RR7GTXGS120030',
-  price: 33980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'Blue',
-  '4': 'Charcoal',
-  '5': '39473',
-  '6': 'AM15635',
-  '7': '1C6RR7GT4GS120024',
-  price: 33980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'Black',
-  '4': 'Charcoal',
-  '5': '36676',
-  '6': 'AM15633',
-  '7': '1C6RR7GT4GS120041',
-  price: 33980 }
-{ '0': 'Truck',
-  '1': '4WD',
-  '2': '5.7L V-8 cyl',
-  '3': 'Grey',
-  '4': 'Charcoal',
-  '5': '57173',
-  '6': 'AM15679',
-  '7': '1C6RR7GT7FS744317',
-  price: 30980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'Blue',
-  '4': 'Charcoal',
-  '5': '70000',
-  '6': 'AM15681A',
-  '7': '1C6RR7GT6ES294478',
-  price: 26980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '3.6L V-6 cyl',
-  '3': 'Blue',
-  '4': 'Grey',
-  '5': '80988',
-  '6': 'AM15752',
-  '7': '1C6RR7KGXFS678243',
-  price: 28980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'Charcoal',
-  '4': 'Charcoal',
-  '5': '40899',
-  '6': 'AM15675',
-  '7': '1C6RR7UT3FS504802',
-  price: 41980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '39829',
-  '6': 'AM15387',
-  '7': '3C6TR5DT1GG101033',
-  price: 41980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '23021',
-  '6': 'AM15382',
-  '7': '3C6TR5DT5GG230036',
-  price: 42980 }
-{ '0': 'Truck',
-  '1': '4WD',
-  '2': '5.7L V-8 cyl',
-  '3': 'Silver',
-  '4': 'Charcoal',
-  '5': '27422',
-  '6': 'AM15687',
-  '7': '3C6TR5DTXGG259175',
-  price: 42980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '325',
-  '6': 'AM15573',
-  '7': '3C6TR5DT8HG547293',
-  price: 49980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '325',
-  '6': 'AM15571',
-  '7': '3C6TR5DT3HG547296',
-  price: 57980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '16521',
-  '6': 'AM15624',
-  '7': '3C6TR5DT8GG294524',
-  price: 42980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'Silver',
-  '4': 'Charcoal',
-  '5': '89330',
-  '6': 'AM15511',
-  '7': '3C6TD5JT4CG337009',
-  price: 28980 }
-{ '0': 'Truck',
-  '1': '4x4',
-  '2': '5.7L V-8 cyl',
-  '3': 'White',
-  '4': 'Charcoal',
-  '5': '73957',
-  '6': 'AM15403',
-  '7': '3C63R3HT0FG561085',
-  price: NaN }
-160
+
+
 { '0': 'SUV',
   '1': 'AWD',
   '2': '2.0L I-4 cyl',
@@ -1478,6 +1399,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15393',
   '7': 'WA1JFCFS8GR004200',
   price: 36980 }
+
+
 { '0': 'Sedan',
   '1': 'Rear-wheel Drive',
   '2': '2.0L I-4 cyl',
@@ -1487,6 +1410,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15727',
   '7': 'WBA3B1C51FK136670',
   price: 34980 }
+
+
 { '0': 'Sedan',
   '1': 'All-wheel Drive',
   '2': '2.0L I-4 cyl',
@@ -1496,6 +1421,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15441',
   '7': 'WBA3B3C53DF542760',
   price: 26980 }
+
+
 { '0': 'Sedan',
   '1': 'AWD',
   '2': '2.0L I-4 cyl',
@@ -1505,6 +1432,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15303',
   '7': 'WBA3B3C5XDJ898443',
   price: 26980 }
+
+
 { '0': 'Sedan',
   '1': 'AWD',
   '2': '2.0L I-4 cyl',
@@ -1514,6 +1443,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15294',
   '7': 'WBA3B3C59DJ698668',
   price: 26980 }
+
+
 { '0': 'Wagon',
   '1': 'AWD',
   '2': '2.0L I-4 cyl',
@@ -1523,6 +1454,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15302',
   '7': 'WBAVL1C5XFVY38832',
   price: 31980 }
+
+
 { '0': 'SUV',
   '1': 'All-wheel Drive',
   '2': '2.0L I-4 cyl',
@@ -1532,6 +1465,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15757',
   '7': '5UXWX9C5XH0D95836',
   price: 46980 }
+
+
 { '0': 'SAV',
   '1': 'AWD',
   '2': '2.0L I-4 cyl',
@@ -1541,6 +1476,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15695',
   '7': '5UXWX9C58G0D77298',
   price: 43980 }
+
+
 { '0': 'Sedan',
   '1': 'Rear-wheel Drive',
   '2': '2.0L I-4 cyl',
@@ -1550,6 +1487,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15448',
   '7': '1G6AB5RX4E0121538',
   price: 27980 }
+
+
 { '0': 'Sedan',
   '1': 'Rear-wheel Drive',
   '2': '3.0L V-6 cyl',
@@ -1559,6 +1498,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15351A',
   '7': '1G6DA5EY9B0150026',
   price: 16980 }
+
+
 { '0': 'Sedan',
   '1': 'AWD',
   '2': '2.0L I-4 cyl',
@@ -1568,6 +1509,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15446',
   '7': '1G6AG5RX3E0126361',
   price: 28980 }
+
+
 { '0': 'Sedan',
   '1': 'RWD',
   '2': '3.0L V-6 cyl',
@@ -1577,6 +1520,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15253A',
   '7': '1G6DE5E56D0103095',
   price: 22980 }
+
+
 { '0': 'Coupe',
   '1': 'RWD',
   '2': '6.2L V-8 cyl',
@@ -1586,6 +1531,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15314',
   '7': '2G1FJ1EW8F9231584',
   price: 43980 }
+
+
 { '0': 'Coupe',
   '1': 'RWD',
   '2': '6.2L 8 Cylinder Engine',
@@ -1595,6 +1542,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15067',
   '7': '2G1FZ1EP7E9802417',
   price: 52980 }
+
+
 { '0': 'Coupe',
   '1': 'RWD',
   '2': '6.2L V-8 cyl',
@@ -1604,6 +1553,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM14882B',
   '7': '2G1FL1EP6E9802328',
   price: 55980 }
+
+
 { '0': 'Sedan',
   '1': 'FWD',
   '2': '1.4L I-4 cyl',
@@ -1613,7 +1564,184 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15438',
   '7': '1G1PE5SB6G7103090',
   price: 18980 }
-176
+
+
+{ '0': 'Sedan',
+  '1': 'RWD',
+  '2': '3.6L V6 Cylinder Engine',
+  '3': 'Silver',
+  '4': 'Black',
+  '5': '22653',
+  '6': 'AM15074',
+  '7': '2C3CCABG2FH853092',
+  price: 29980 }
+
+
+{ '0': 'Sedan',
+  '1': 'RWD',
+  '2': '3.6L V-6 cyl',
+  '3': 'Dark Grey',
+  '4': 'Black',
+  '5': '38504',
+  '6': 'AM15704',
+  '7': '2C3CCABG9GH170372',
+  price: 30980 }
+
+
+{ '0': 'Sedan',
+  '1': 'rear-wheel drive',
+  '2': '3.6L V-6 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '127300',
+  '6': 'AM15710A',
+  '7': '2C3CA4CGXBH562730',
+  price: 11980 }
+
+
+{ '0': 'Minivan',
+  '1': 'FWD',
+  '2': '3.6L V-6 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '31303',
+  '6': 'AM15011',
+  '7': '2C4RC1HG9FR714567',
+  price: 33980 }
+
+
+{ '0': 'Coupe',
+  '1': 'RWD',
+  '2': '6.4L V-8 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '26944',
+  '6': 'AM15049',
+  '7': '2C3CDYCJ1EH286971',
+  price: 41980 }
+
+
+{ '0': 'Sedan',
+  '1': 'RWD',
+  '2': '3.6L V-6 cyl',
+  '3': 'Grey',
+  '4': 'Black',
+  '5': '61187',
+  '6': 'AM15415',
+  '7': '2C3CDXHG4FH765250',
+  price: 24980 }
+
+
+{ '0': 'Sedan',
+  '1': 'RWD',
+  '2': '3.6L V-6 cyl',
+  '3': 'Red',
+  '4': 'Charcoal',
+  '5': '53779',
+  '6': 'AM15357',
+  '7': '2C3CDXHG2FH857165',
+  price: 24980 }
+
+
+{ '0': 'Sedan',
+  '1': 'RWD',
+  '2': '3.6L V-6 cyl',
+  '3': 'White',
+  '4': 'Black',
+  '5': '57989',
+  '6': 'AM15356',
+  '7': '2C3CDXHG2FH851818',
+  price: 24980 }
+
+
+{ '0': 'Sedan',
+  '1': 'RWD',
+  '2': '3.6L V-6 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '47134',
+  '6': 'AM15416',
+  '7': '2C3CDXHG5FH870962',
+  price: 24980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Rear-wheel Drive',
+  '2': '3.6L V-6 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '68048',
+  '6': 'AM15545A',
+  '7': '2C3CDXHGXFH727554',
+  price: 23980 }
+
+
+{ '0': 'Sedan',
+  '1': 'RWD',
+  '2': '3.6L V-6 cyl',
+  '3': 'Black',
+  '4': 'Black',
+  '5': '38790',
+  '6': 'AM14773',
+  '7': '2C3CDXHG7FH765274',
+  price: 24980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Rear-wheel Drive',
+  '2': '3.6L V-6 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '209615',
+  '6': 'AM15422A',
+  '7': '2B3CL3CG7BH583634',
+  price: 10980 }
+
+
+{ '0': 'SUV',
+  '1': 'All-wheel Drive',
+  '2': '5.7L V-8 cyl',
+  '3': 'Red',
+  '4': 'Black',
+  '5': '25356',
+  '6': 'AM15619',
+  '7': '1C4SDJCT0GC375159',
+  price: 46980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '3.6L V-6 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '26814',
+  '6': 'AM15763',
+  '7': '1C4RDJAGXGC353836',
+  price: 35980 }
+
+
+{ '0': 'SUV',
+  '1': 'AWD',
+  '2': '3.6L V-6 cyl',
+  '3': 'Green',
+  '4': 'Charcoal',
+  '5': '44357',
+  '6': 'AM15762',
+  '7': '1C4RDJAG8GC353835',
+  price: 35980 }
+
+
+{ '0': 'Van Passenger Van',
+  '1': 'Front-wheel Drive',
+  '2': '3.6L V-6 cyl',
+  '3': 'Blue',
+  '4': 'Charcoal',
+  '5': '73656',
+  '6': 'AM15669',
+  '7': '2C4RDGDG5FR599827',
+  price: 23980 }
+
+
 { '0': 'Van',
   '1': 'FWD',
   '2': '3.6L V-6 cyl',
@@ -1623,6 +1751,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15715',
   '7': '2C4RDGDG2CR335931',
   price: 19980 }
+
+
 { '0': 'Minivan',
   '1': 'FWD',
   '2': '3.6L V-6 cyl',
@@ -1632,6 +1762,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15656',
   '7': '2C4RDGBG8ER315804',
   price: 17980 }
+
+
 { '0': 'Minivan',
   '1': 'FWD',
   '2': '3.6L V-6 cyl',
@@ -1641,6 +1773,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15651',
   '7': '2C4RDGBG2CR158803',
   price: 16980 }
+
+
 { '0': 'Van Passenger Van',
   '1': 'Front-wheel Drive',
   '2': '3.6L V-6 cyl',
@@ -1650,6 +1784,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15766',
   '7': '2C4RDGBG3GR367649',
   price: 24980 }
+
+
 { '0': 'Van Passenger Van',
   '1': 'Front-wheel Drive',
   '2': '3.6L V-6 cyl',
@@ -1659,6 +1795,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15764',
   '7': '2C4RDGBG7GR350028',
   price: 24980 }
+
+
 { '0': 'Van Passenger Van',
   '1': 'FWD',
   '2': '3.6L V-6 cyl',
@@ -1668,6 +1806,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15765',
   '7': '2C4RDGBG7GR355455',
   price: 24980 }
+
+
 { '0': 'SUV',
   '1': 'AWD',
   '2': '3.6L V-6 cyl',
@@ -1677,6 +1817,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15759',
   '7': '3C4PDDGG3GT189351',
   price: 27980 }
+
+
 { '0': 'SUV',
   '1': 'AWD',
   '2': '3.6L V-6 cyl',
@@ -1686,6 +1828,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15744',
   '7': '3C4PDDFG8GT105977',
   price: 28980 }
+
+
 { '0': 'SUV',
   '1': 'AWD',
   '2': '3.6L V-6 cyl',
@@ -1695,6 +1839,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15745',
   '7': '3C4PDDFG0GT210660',
   price: 28980 }
+
+
 { '0': 'SUV',
   '1': 'FWD',
   '2': '2.4L I-4 cyl',
@@ -1704,6 +1850,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15741',
   '7': '3C4PDCAB7CT333596',
   price: 13980 }
+
+
 { '0': 'SUV',
   '1': 'FWD',
   '2': '2.4L I-4 cyl',
@@ -1713,6 +1861,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15751',
   '7': '3C4PDCAB1CT355674',
   price: 12980 }
+
+
 { '0': 'Hatchback',
   '1': 'FWD',
   '2': '1.4L I-4 cyl',
@@ -1722,6 +1872,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15694',
   '7': '3C3CFFBR8FT594363',
   price: 13980 }
+
+
 { '0': 'SUV',
   '1': 'FWD',
   '2': '2.0L I-4 cyl',
@@ -1731,6 +1883,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15022',
   '7': '2FMDK3G90DBB79710',
   price: 17980 }
+
+
 { '0': 'SUV',
   '1': 'AWD',
   '2': '2.0L I-4 cyl',
@@ -1740,6 +1894,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15549',
   '7': '2FMPK4J94GBB13919',
   price: 33980 }
+
+
 { '0': 'SUV',
   '1': 'AWD',
   '2': '2.0L I-4 cyl',
@@ -1749,6 +1905,8 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15551',
   '7': '2FMPK4J99GBB07713',
   price: 33980 }
+
+
 { '0': 'SUV',
   '1': 'AWD',
   '2': '2.0L I-4 cyl',
@@ -1758,4 +1916,357 @@ TypeError: Cannot read property 'children' of undefined
   '6': 'AM15550',
   '7': '2FMPK4J95GBB07711',
   price: 33980 }
-192
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '3.2L V-6 cyl',
+  '3': 'Blue',
+  '4': 'Black',
+  '5': '30561',
+  '6': 'AM14744',
+  '7': '1C4PJMBS9FW713339',
+  price: 30980 }
+
+
+{ '0': 'SUV',
+  '1': '4WD',
+  '2': '2.4L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Black',
+  '5': '34250',
+  '6': 'AM15723',
+  '7': '1C4NJDAB5FD381260',
+  price: 22980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '3.6L V-6 cyl',
+  '3': 'Blue',
+  '4': 'Charcoal',
+  '5': '42012',
+  '6': 'AM15677',
+  '7': '1C4RJFAG1GC431085',
+  price: 33980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '3.6L V-6 cyl',
+  '3': 'Silver',
+  '4': 'Black',
+  '5': '146378',
+  '6': 'AM15275',
+  '7': '1J4RR4GG1BC570835',
+  price: 21980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'White',
+  '4': 'Black',
+  '5': '9800',
+  '6': 'AM15707',
+  '7': '1C4RJFBT2HC718660',
+  price: 52980 }
+
+
+{ '0': 'SUV',
+  '1': '4WD',
+  '2': '3.6L V-6 cyl',
+  '3': 'Dark Grey',
+  '4': 'Black',
+  '5': '33017',
+  '6': 'AM15760',
+  '7': '1C4RJFBG5GC433680',
+  price: 41980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '3.6L V-6 cyl',
+  '3': 'Silver',
+  '4': 'Black',
+  '5': '48560',
+  '6': 'AM15761',
+  '7': '1C4RJFBG6FC874619',
+  price: 36980 }
+
+
+{ '0': 'SUV',
+  '1': '4WD',
+  '2': '3.6L V-6 cyl',
+  '3': 'White',
+  '4': 'Black',
+  '5': '37998',
+  '6': 'AM15775',
+  '7': '1C4RJFBG6GC404382',
+  price: 39980 }
+
+
+{ '0': 'SUV',
+  '1': '4WD',
+  '2': '2.4L I-4 cyl',
+  '3': 'Red',
+  '4': 'Black',
+  '5': '46042',
+  '6': 'AM15736',
+  '7': '1C4NJRAB8FD339064',
+  price: 21980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '3.6L V-6 cyl',
+  '3': 'Silver',
+  '4': 'Charcoal',
+  '5': '73653',
+  '6': 'AM15551A',
+  '7': '1C4AJWAG8DL652773',
+  price: 25980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '3.6L V-6 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '49392',
+  '6': 'AM15424',
+  '7': '1C4HJWEG1FL701887',
+  price: 38980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '3.6L V-6 cyl',
+  '3': 'White',
+  '4': 'Black',
+  '5': '50503',
+  '6': 'AM15425',
+  '7': '1C4HJWEG5FL698377',
+  price: 38980 }
+
+
+{ '0': 'SUV',
+  '1': '4x4',
+  '2': '3.6L V-6 cyl',
+  '3': 'Black',
+  '4': 'Charcoal',
+  '5': '93540',
+  '6': 'AM15523',
+  '7': '1C4BJWEG8CL179602',
+  price: 28980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '1.8L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '44454',
+  '6': 'AM15769',
+  '7': 'KNAFK4A69G5448746',
+  price: 15980 }
+
+
+{ '0': 'Sedan',
+  '1': 'FWD',
+  '2': '2.4L I-4 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '57355',
+  '6': 'AM15362',
+  '7': 'KNAGM4A7XF5612267',
+  price: 18980 }
+
+
+{ '0': 'Sedan',
+  '1': 'Front-wheel Drive',
+  '2': '2.4L I-4 cyl',
+  '3': 'Red',
+  '4': 'Charcoal',
+  '5': '30493',
+  '6': 'AM15770',
+  '7': '5XXGT4L39GG055123',
+  price: 21980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '39104',
+  '6': 'AM15203',
+  '7': '1C6RR7LT9FS744261',
+  price: 33980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Silver',
+  '4': 'Charcoal',
+  '5': '39403',
+  '6': 'AM15634',
+  '7': '1C6RR7GTXGS120030',
+  price: 33980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Blue',
+  '4': 'Charcoal',
+  '5': '39473',
+  '6': 'AM15635',
+  '7': '1C6RR7GT4GS120024',
+  price: 33980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Black',
+  '4': 'Charcoal',
+  '5': '36676',
+  '6': 'AM15633',
+  '7': '1C6RR7GT4GS120041',
+  price: 33980 }
+
+
+{ '0': 'Truck',
+  '1': '4WD',
+  '2': '5.7L V-8 cyl',
+  '3': 'Grey',
+  '4': 'Charcoal',
+  '5': '57173',
+  '6': 'AM15679',
+  '7': '1C6RR7GT7FS744317',
+  price: 30980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Blue',
+  '4': 'Charcoal',
+  '5': '70000',
+  '6': 'AM15681A',
+  '7': '1C6RR7GT6ES294478',
+  price: 26980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '3.6L V-6 cyl',
+  '3': 'Blue',
+  '4': 'Grey',
+  '5': '80988',
+  '6': 'AM15752',
+  '7': '1C6RR7KGXFS678243',
+  price: 28980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Charcoal',
+  '4': 'Charcoal',
+  '5': '40899',
+  '6': 'AM15675',
+  '7': '1C6RR7UT3FS504802',
+  price: 41980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '39829',
+  '6': 'AM15387',
+  '7': '3C6TR5DT1GG101033',
+  price: 41980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '23021',
+  '6': 'AM15382',
+  '7': '3C6TR5DT5GG230036',
+  price: 42980 }
+
+
+{ '0': 'Truck',
+  '1': '4WD',
+  '2': '5.7L V-8 cyl',
+  '3': 'Silver',
+  '4': 'Charcoal',
+  '5': '27422',
+  '6': 'AM15687',
+  '7': '3C6TR5DTXGG259175',
+  price: 42980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '325',
+  '6': 'AM15573',
+  '7': '3C6TR5DT8HG547293',
+  price: 49980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '325',
+  '6': 'AM15571',
+  '7': '3C6TR5DT3HG547296',
+  price: 57980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '16521',
+  '6': 'AM15624',
+  '7': '3C6TR5DT8GG294524',
+  price: 42980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'Silver',
+  '4': 'Charcoal',
+  '5': '89330',
+  '6': 'AM15511',
+  '7': '3C6TD5JT4CG337009',
+  price: 28980 }
+
+
+{ '0': 'Truck',
+  '1': '4x4',
+  '2': '5.7L V-8 cyl',
+  '3': 'White',
+  '4': 'Charcoal',
+  '5': '73957',
+  '6': 'AM15403',
+  '7': '3C63R3HT0FG561085',
+  price: NaN }
+
+

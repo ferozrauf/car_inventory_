@@ -15,10 +15,10 @@ function grabInventoryPerSite()
 			var prices = $('span.internetPrice.final-price').find('span.value');
 			var details = $('dd');
 			var cars = new Array();
-			for(var i=0;i<16;i++)
+			for(var i=0;i<16 && i<prices.length;i++)
 			{
 				var car = new Object();
-				if(prices[i].children!=undefined)
+				if(prices[i]!=undefined || prices[i].children!=undefined)
 				{
 					var pre_price = prices[i].children[0].data.replace(/\D/g,'');
 					car.price = parseInt(pre_price);
@@ -31,7 +31,7 @@ function grabInventoryPerSite()
 			for(var j=0;j<details.length;j++)
 			{
 				cars[i][k++] = details[j].children[0].data;
-				if(k==8)
+				if(cars[i][k-1].replace(' ','').length==17)
 				{
 					i++;
 					k=0;
@@ -39,8 +39,11 @@ function grabInventoryPerSite()
 			}
 			sum+=cars.length;
 			for(var k=0;k<cars.length;k++)
+			{
 				console.log(cars[k]);
-			console.log(sum);
+				console.log('\n');
+			}
+			//console.log(sum);
 		} catch(e) {
 			console.log(e);
 		}
@@ -56,7 +59,7 @@ for(var i=0; i<207; i+=16)
 {
 	if(i<207)
 		request(site_url + '?start=' + i,grabInventoryPerSite());
-	console.log(site_url + '?start=' + i);
+	//console.log(site_url + '?start=' + i);
 
 
 }
